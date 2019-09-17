@@ -21,7 +21,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
-        <element label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
     </element>
 </database>
