@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-17 00:10:02</sys_created_on>
-        <sys_id>219b2dbbf43b33007f44e87673c23459</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>fd4c0258f48040107f44e87673c2344a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Item type</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e8c474bbf4f733007f44e87673c234b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">e8c474bbf4f733007f44e87673c234b5</sys_scope>
         <sys_update_name>sys_dictionary_x_cdltd_loaner_req_loaner_request_item_type</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 00:11:04</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:49:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

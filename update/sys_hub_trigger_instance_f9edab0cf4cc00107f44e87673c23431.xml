@@ -9,14 +9,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-18 04:17:53</sys_created_on>
         <sys_id>f9edab0cf4cc00107f44e87673c23431</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>record_create_or_update</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e8c474bbf4f733007f44e87673c234b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">e8c474bbf4f733007f44e87673c234b5</sys_scope>
         <sys_update_name>sys_hub_trigger_instance_f9edab0cf4cc00107f44e87673c23431</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-09-18 05:04:48</sys_updated_on>
+        <sys_updated_on>2019-09-18 18:02:06</sys_updated_on>
         <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
