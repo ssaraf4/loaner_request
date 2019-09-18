@@ -63,7 +63,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-09-17 00:10:03</sys_created_on>
-            <sys_id>6a4c4258f48040107f44e87673c2345e</sys_id>
+            <sys_id>6dae2e94f4c040107f44e87673c23409</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>item_type</sys_name>
             <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e8c474bbf4f733007f44e87673c234b5</sys_package>
